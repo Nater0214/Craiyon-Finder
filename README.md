@@ -1,4 +1,4 @@
-# Cr**ai**yon Finder
+# Craiyon Finder
 This program is an interface for easily getting images from the Craiyon Image AI.  
 This program is not an AI, it just outsources Craiyon.  
 
