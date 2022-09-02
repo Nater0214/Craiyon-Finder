@@ -1,5 +1,5 @@
 # Craiyon Finder
-This program is an interface for easily getting images from the [Craiyon Image AI]https://www.craiyon.com/.  
+This program is an interface for easily getting images from the [Craiyon Image AI](https://www.craiyon.com/).  
 This program is not an AI, it just outsources Craiyon.  
 
 ## Usage
