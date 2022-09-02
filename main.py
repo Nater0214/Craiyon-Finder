@@ -30,8 +30,7 @@ def main(prompt: str, spinner: bool = True) -> None:
 
 # Main
 # Get prompt
-# prompt = input("Prompt: ")
-prompt = "Phoenix Sports Logo"
+prompt = input("Prompt: ")
 
 if prompt == 'LIST': # If list of prompts is requested do that
     # Get prompts
